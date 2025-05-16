@@ -39,4 +39,5 @@ for steamid in steamids:
 ```bash
 python dumper.py
 ```
+
 > i ain't gonna explain how to use it gang -- y'all smart enough
