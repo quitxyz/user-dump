@@ -26,6 +26,6 @@ The corresponding Streamer Mode username is printed to the console.
 
 ---
 
-<sub><b>Archive note</b></sub>
-
-<sub>This is an older utility preserved for historical reference. Its results matched all 17 tested lookups against a newer online tool, suggesting it may still work, although compatibility with current Rust versions isn't guaranteed.</sub>
+> <sub><b>Archive note</b></sub>
+>
+> <sub>This is an older utility preserved for historical reference. Its results matched all 17 tested lookups against a newer online tool, suggesting it may still work, although compatibility with current Rust versions isn't guaranteed.</sub>
