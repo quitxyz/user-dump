@@ -1,9 +1,8 @@
 import json
 
-steamid=76561197961793416
+steamid = 76561197961793416
 
-names=json.loads(open("usernames.json").read())["streamnames"]
+names = json.load(open("usernames.json"))["streamnames"]
+index = (steamid % 2147483647) % len(names)
 
-v = (steamid % 2147483647) % len(names)
-
-print(names[v])
+print(names[index])
