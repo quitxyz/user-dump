@@ -8,7 +8,7 @@ combine this tool with battlemetrics and steam api data to help identify active 
 
 ## usage
 
-requires python 3. no external dependencies.
+requires python 3.
 
 set the steam id in `dump.py`:
 
@@ -28,4 +28,4 @@ the corresponding streamer mode username is printed to the console.
 
 > <sub><b>archive note</b></sub>
 >
-> <sub>this is an older utility preserved for historical reference. its results matched all 17 tested lookups against a newer online tool, suggesting it may still work, although compatibility with current rust versions isn't guaranteed.</sub>
+> <sub>this tool is pretty old, while archiving this I quickly tested some cases and all of them worked against other working services.</sub>
