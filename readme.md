@@ -26,6 +26,5 @@ the corresponding streamer mode username is printed to the console.
 
 ---
 
-> <sub><b>archive note</b></sub>
->
+> <sub><b>archive note</b></sub>  
 > <sub>this tool is pretty old, while archiving this I quickly tested some cases and all of them worked against other working services.</sub>
