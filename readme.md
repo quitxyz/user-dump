@@ -1,4 +1,4 @@
-# user-dump
+## user dump
 
 user-dump is a lightweight Python utility for calculating Rust Streamer Mode usernames from Steam IDs.
 
