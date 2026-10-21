@@ -1,31 +1,31 @@
-## user dump
+# user-dump
 
-user-dump is a lightweight Python utility for calculating Rust Streamer Mode usernames from Steam IDs.
+user-dump is a lightweight python utility for calculating rust streamer mode usernames from steam ids.
 
-Initial s/o to [@realstrings](https://github.com/realstrings/rust-de-stream-mode) for extracting the original game functions and username data.
+initial s/o to [@realstrings](https://github.com/realstrings/rust-de-stream-mode) for extracting the original game functions and username data.
 
-Combine this tool with BattleMetrics and Steam API data to help identify active players on Rust servers.
+combine this tool with battlemetrics and steam api data to help identify active players on rust servers.
 
-## Usage
+## usage
 
-Requires Python 3. No external dependencies.
+requires python 3. no external dependencies.
 
-Set the Steam ID in `dump.py`:
+set the steam id in `dump.py`:
 
 ```python
 steamid = 76561197961793416
 ```
 
-Run the script:
+run the script:
 
 ```bash
 python dump.py
 ```
 
-The corresponding Streamer Mode username is printed to the console.
+the corresponding streamer mode username is printed to the console.
 
 ---
 
-> <sub><b>Archive note</b></sub>
+> <sub><b>archive note</b></sub>
 >
-> <sub>This is an older utility preserved for historical reference. Its results matched all 17 tested lookups against a newer online tool, suggesting it may still work, although compatibility with current Rust versions isn't guaranteed.</sub>
+> <sub>this is an older utility preserved for historical reference. its results matched all 17 tested lookups against a newer online tool, suggesting it may still work, although compatibility with current rust versions isn't guaranteed.</sub>
